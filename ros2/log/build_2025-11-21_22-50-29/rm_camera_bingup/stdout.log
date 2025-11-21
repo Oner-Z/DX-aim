@@ -1,0 +1,25 @@
+[ 80%] Built target video_image_node
+[100%] Built target hk_camera_node
+-- Install configuration: "Release"
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/lib/rm_camera_bingup/hk_camera_node
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/lib/rm_camera_bingup/video_image_node
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/launch
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/launch/hk_camera.launch.py
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/launch/video_player.launch.py
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/config
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/config/camera_params.yaml
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/ament_index/resource_index/package_run_dependencies/rm_camera_bingup
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/ament_index/resource_index/parent_prefix_path/rm_camera_bingup
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/environment/ament_prefix_path.sh
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/environment/path.sh
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/environment/path.dsv
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/local_setup.bash
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/local_setup.sh
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/local_setup.zsh
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/local_setup.dsv
+-- Installing: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/package.dsv
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/ament_index/resource_index/packages/rm_camera_bingup
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/cmake/rm_camera_bingupConfig.cmake
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/cmake/rm_camera_bingupConfig-version.cmake
+-- Up-to-date: /home/xjturm/DX_autoaim/ros2/install/rm_camera_bingup/share/rm_camera_bingup/package.xml

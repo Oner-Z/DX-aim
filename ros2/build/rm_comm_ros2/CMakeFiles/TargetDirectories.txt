@@ -1,0 +1,10 @@
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/uninstall.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/rm_comm_ros2_uninstall.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/serial_rw_node.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/test.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/edit_cache.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/rebuild_cache.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/list_install_components.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/install.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/install/local.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/CMakeFiles/install/strip.dir

@@ -1,0 +1,11 @@
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/uninstall.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/rm_camera_bingup_uninstall.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/hk_camera_node.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/video_image_node.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/test.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/edit_cache.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/rebuild_cache.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/list_install_components.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/install.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/install/local.dir
+/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup/CMakeFiles/install/strip.dir

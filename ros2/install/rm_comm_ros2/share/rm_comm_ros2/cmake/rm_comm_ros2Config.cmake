@@ -1,0 +1,1 @@
+/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/ament_cmake_core/rm_comm_ros2Config.cmake

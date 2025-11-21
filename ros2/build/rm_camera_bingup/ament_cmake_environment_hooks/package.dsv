@@ -1,0 +1,4 @@
+source;share/rm_camera_bingup/local_setup.bash
+source;share/rm_camera_bingup/local_setup.dsv
+source;share/rm_camera_bingup/local_setup.sh
+source;share/rm_camera_bingup/local_setup.zsh

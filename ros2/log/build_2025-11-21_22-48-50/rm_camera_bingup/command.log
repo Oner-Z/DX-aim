@@ -1,0 +1,4 @@
+Invoking command in '/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup': /usr/bin/cmake --build /home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup -- -j20 -l20
+Invoked command in '/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup' returned '0': /usr/bin/cmake --build /home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup -- -j20 -l20
+Invoking command in '/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup': /usr/bin/cmake --install /home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup
+Invoked command in '/home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup' returned '0': /usr/bin/cmake --install /home/xjturm/DX_autoaim/ros2/build/rm_camera_bingup

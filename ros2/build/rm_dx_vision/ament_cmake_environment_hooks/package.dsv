@@ -1,0 +1,4 @@
+source;share/rm_dx_vision/local_setup.bash
+source;share/rm_dx_vision/local_setup.dsv
+source;share/rm_dx_vision/local_setup.sh
+source;share/rm_dx_vision/local_setup.zsh

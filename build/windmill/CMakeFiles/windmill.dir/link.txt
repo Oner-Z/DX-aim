@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwindmill.a CMakeFiles/windmill.dir/src/WMIdentify.cpp.o CMakeFiles/windmill.dir/src/WMInference.cpp.o CMakeFiles/windmill.dir/src/WMPredict.cpp.o CMakeFiles/windmill.dir/src/angular_velocity_fitter.cpp.o CMakeFiles/windmill.dir/src/traditional_detection.cpp.o
+/usr/bin/ranlib libwindmill.a

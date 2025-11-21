@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/xjturm/DX_autoaim/build",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/cuda/include -isystem /usr/local/include/opencv4  -pthread -Wno-error=deprecated-declarations -std=c++17 -o CMakeFiles/infantry_new.dir/main.cpp.o -c /home/xjturm/DX_autoaim/main.cpp",
+  "file": "/home/xjturm/DX_autoaim/main.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/camera",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++14 -pthread -std=c++17 -o CMakeFiles/camera.dir/src/camera.cpp.o -c /home/xjturm/DX_autoaim/camera/src/camera.cpp",
+  "file": "/home/xjturm/DX_autoaim/camera/src/camera.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/params",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/params.dir/src/UIManager.cpp.o -c /home/xjturm/DX_autoaim/params/src/UIManager.cpp",
+  "file": "/home/xjturm/DX_autoaim/params/src/UIManager.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/params",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/params.dir/src/gaoning.cpp.o -c /home/xjturm/DX_autoaim/params/src/gaoning.cpp",
+  "file": "/home/xjturm/DX_autoaim/params/src/gaoning.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/params",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/params.dir/src/globalParam.cpp.o -c /home/xjturm/DX_autoaim/params/src/globalParam.cpp",
+  "file": "/home/xjturm/DX_autoaim/params/src/globalParam.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/params",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/params.dir/src/monitor.cpp.o -c /home/xjturm/DX_autoaim/params/src/monitor.cpp",
+  "file": "/home/xjturm/DX_autoaim/params/src/monitor.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/serialPort",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/serialPort.dir/src/MessageManager.cpp.o -c /home/xjturm/DX_autoaim/serialPort/src/MessageManager.cpp",
+  "file": "/home/xjturm/DX_autoaim/serialPort/src/MessageManager.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/serialPort",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/serialPort.dir/src/SerialPort.cpp.o -c /home/xjturm/DX_autoaim/serialPort/src/SerialPort.cpp",
+  "file": "/home/xjturm/DX_autoaim/serialPort/src/SerialPort.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/windmill",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/windmill.dir/src/WMIdentify.cpp.o -c /home/xjturm/DX_autoaim/windmill/src/WMIdentify.cpp",
+  "file": "/home/xjturm/DX_autoaim/windmill/src/WMIdentify.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/windmill",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/windmill.dir/src/WMInference.cpp.o -c /home/xjturm/DX_autoaim/windmill/src/WMInference.cpp",
+  "file": "/home/xjturm/DX_autoaim/windmill/src/WMInference.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/windmill",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/windmill.dir/src/WMPredict.cpp.o -c /home/xjturm/DX_autoaim/windmill/src/WMPredict.cpp",
+  "file": "/home/xjturm/DX_autoaim/windmill/src/WMPredict.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/windmill",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/windmill.dir/src/angular_velocity_fitter.cpp.o -c /home/xjturm/DX_autoaim/windmill/src/angular_velocity_fitter.cpp",
+  "file": "/home/xjturm/DX_autoaim/windmill/src/angular_velocity_fitter.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/windmill",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread -std=c++17 -pthread -std=c++17 -o CMakeFiles/windmill.dir/src/traditional_detection.cpp.o -c /home/xjturm/DX_autoaim/windmill/src/traditional_detection.cpp",
+  "file": "/home/xjturm/DX_autoaim/windmill/src/traditional_detection.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/armor",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread  -std=c++14 -pthread -std=c++17 -o CMakeFiles/armor.dir/src/AimAuto.cpp.o -c /home/xjturm/DX_autoaim/armor/src/AimAuto.cpp",
+  "file": "/home/xjturm/DX_autoaim/armor/src/AimAuto.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/armor",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread  -std=c++14 -pthread -std=c++17 -o CMakeFiles/armor.dir/src/KalmanFilter.cpp.o -c /home/xjturm/DX_autoaim/armor/src/KalmanFilter.cpp",
+  "file": "/home/xjturm/DX_autoaim/armor/src/KalmanFilter.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/armor",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread  -std=c++14 -pthread -std=c++17 -o CMakeFiles/armor.dir/src/OpenvinoInfer.cpp.o -c /home/xjturm/DX_autoaim/armor/src/OpenvinoInfer.cpp",
+  "file": "/home/xjturm/DX_autoaim/armor/src/OpenvinoInfer.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/armor",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread  -std=c++14 -pthread -std=c++17 -o CMakeFiles/armor.dir/src/detector.cpp.o -c /home/xjturm/DX_autoaim/armor/src/detector.cpp",
+  "file": "/home/xjturm/DX_autoaim/armor/src/detector.cpp"
+},
+{
+  "directory": "/home/xjturm/DX_autoaim/build/armor",
+  "command": "/usr/bin/c++ -DDEBUGMODE -DSENDCAMERA -DSHOW_FPS -DVISUALIZE_PREDICTION -D_GLIBCXX_USE_CXX11_ABI=1 -I/usr/include/eigen3 -I/opt/MVS/include -I/home/xjturm/DX_autoaim/armor/include -I/home/xjturm/DX_autoaim/camera/include -I/home/xjturm/DX_autoaim/params/include -I/home/xjturm/DX_autoaim/serialPort/include -I/home/xjturm/DX_autoaim/windmill/include -I/usr/local/include/opencv4 -I/usr/local/cuda/include  -pthread  -std=c++14 -pthread -std=c++17 -o CMakeFiles/armor.dir/src/tracker.cpp.o -c /home/xjturm/DX_autoaim/armor/src/tracker.cpp",
+  "file": "/home/xjturm/DX_autoaim/armor/src/tracker.cpp"
+}
+]

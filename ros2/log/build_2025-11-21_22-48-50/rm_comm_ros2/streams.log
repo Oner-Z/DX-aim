@@ -1,0 +1,27 @@
+[0.007s] Invoking command in '/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2 -- -j20 -l20
+[0.038s] [35m[1mConsolidate compiler generated dependencies of target serial_rw_node[0m
+[0.054s] [100%] Built target serial_rw_node
+[0.062s] Invoked command in '/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2 -- -j20 -l20
+[0.069s] Invoking command in '/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2
+[0.074s] -- Install configuration: "Release"
+[0.075s] -- Execute custom install script
+[0.075s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/lib/rm_comm_ros2/serial_rw_node
+[0.080s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/include/rm_comm_ros2/packet_utils.hpp
+[0.086s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/include/rm_comm_ros2/protocol.h
+[0.092s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/launch/rm_comm_bringup.launch.py
+[0.098s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/ament_index/resource_index/package_run_dependencies/rm_comm_ros2
+[0.105s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/ament_index/resource_index/parent_prefix_path/rm_comm_ros2
+[0.114s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/environment/ament_prefix_path.sh
+[0.120s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/environment/ament_prefix_path.dsv
+[0.126s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/environment/path.sh
+[0.133s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/environment/path.dsv
+[0.138s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/local_setup.bash
+[0.145s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/local_setup.sh
+[0.150s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/local_setup.zsh
+[0.156s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/local_setup.dsv
+[0.161s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/package.dsv
+[0.167s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/ament_index/resource_index/packages/rm_comm_ros2
+[0.173s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/cmake/rm_comm_ros2Config.cmake
+[0.178s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/cmake/rm_comm_ros2Config-version.cmake
+[0.185s] -- Symlinking: /home/xjturm/DX_autoaim/ros2/install/rm_comm_ros2/share/rm_comm_ros2/package.xml
+[0.192s] Invoked command in '/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2
