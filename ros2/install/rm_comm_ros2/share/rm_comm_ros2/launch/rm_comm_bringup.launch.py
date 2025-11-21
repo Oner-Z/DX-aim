@@ -1,1 +1,0 @@
-/home/xjturm/DX_autoaim/ros2/src/rm_comm_ros2/launch/rm_comm_bringup.launch.py

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libserialPort.a CMakeFiles/serialPort.dir/src/MessageManager.cpp.o CMakeFiles/serialPort.dir/src/SerialPort.cpp.o
-/usr/bin/ranlib libserialPort.a

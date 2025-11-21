@@ -1,7 +1,0 @@
-[01m[K/home/xjturm/DX_autoaim/ros2/src/rm_comm_ros2/src/serial_rw_node.cpp:[m[K In member function ‘[01m[Kvoid SerialRwNode::setupSharedMemory()[m[K’:
-[01m[K/home/xjturm/DX_autoaim/ros2/src/rm_comm_ros2/src/serial_rw_node.cpp:284:14:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kint ftruncate(int, __off_t)[m[K’ declared with attribute ‘[01m[Kwarn_unused_result[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-result-Wunused-result]8;;[m[K]
-  284 |     [01;35m[Kftruncate(tx_shm_fd_, sizeof(ShmTx))[m[K;
-      |     [01;35m[K~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[01m[K/home/xjturm/DX_autoaim/ros2/src/rm_comm_ros2/src/serial_rw_node.cpp:285:14:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kint ftruncate(int, __off_t)[m[K’ declared with attribute ‘[01m[Kwarn_unused_result[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-result-Wunused-result]8;;[m[K]
-  285 |     [01;35m[Kftruncate(rx_shm_fd_, sizeof(ShmRx))[m[K;
-      |     [01;35m[K~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K

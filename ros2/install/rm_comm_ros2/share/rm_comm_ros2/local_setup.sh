@@ -1,1 +1,0 @@
-/home/xjturm/DX_autoaim/ros2/build/rm_comm_ros2/ament_cmake_environment_hooks/local_setup.sh

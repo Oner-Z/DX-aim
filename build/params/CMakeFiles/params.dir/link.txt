@@ -1,2 +1,0 @@
-/usr/bin/ar qc libparams.a CMakeFiles/params.dir/src/UIManager.cpp.o CMakeFiles/params.dir/src/gaoning.cpp.o CMakeFiles/params.dir/src/globalParam.cpp.o CMakeFiles/params.dir/src/monitor.cpp.o
-/usr/bin/ranlib libparams.a

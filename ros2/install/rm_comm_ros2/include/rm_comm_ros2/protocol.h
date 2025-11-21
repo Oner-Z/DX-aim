@@ -1,1 +1,0 @@
-/home/xjturm/DX_autoaim/ros2/src/rm_comm_ros2/include/rm_comm_ros2/protocol.h
